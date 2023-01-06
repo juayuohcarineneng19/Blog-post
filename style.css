@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    height: 100vh;
+    background: linear-gradient(
+         27deg,
+        white 0%,
+        white 50%,
+        aqua 50%,
+        aqua 100%
+    );
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+      }
+.text p{
+    opacity: 0.4;
+}
